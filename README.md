@@ -6,3 +6,8 @@ Koliko bo izbrana vrednost parametra? ______4______.
 Koliko je privzeta vrednost paramtera Number of Conversion? ___1___ .
 Čas vzorčenja Sampling Time izberite 92.5 cikla. Koliko je čas vzorčenja v mikro sekundah? _______26,153 μs______. Enačba za izračun: tvz = (tvz_cik + 12) / ftakta_pretvorbe
 Kaj pomeni kratica DMA? ______Direct Memory Access______.
+
+KOMENTAR:
+
+Z ADC pretvorbo v SCAN načinu beremo vrednosti na potenciometrih. Vrednosti pa opazujemo v debug-u.
+
